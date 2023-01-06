@@ -1,0 +1,12 @@
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ListManagerApp\bin\Debug\ListManagerApp.exe.config
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ListManagerApp\bin\Debug\ListManagerApp.exe
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ListManagerApp\bin\Debug\ListManagerApp.pdb
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ListManagerApp\obj\Debug\ListManagerApp.csproj.AssemblyReference.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ListManagerApp\obj\Debug\ListManagerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ListManagerApp\obj\Debug\ListManagerApp.Form1.resources
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ListManagerApp\obj\Debug\ListManagerApp.Form2.resources
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ListManagerApp\obj\Debug\ListManagerApp.Properties.Resources.resources
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ListManagerApp\obj\Debug\ListManagerApp.csproj.GenerateResource.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ListManagerApp\obj\Debug\ListManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ListManagerApp\obj\Debug\ListManagerApp.exe
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ListManagerApp\obj\Debug\ListManagerApp.pdb
